@@ -17,8 +17,8 @@ privileged:
   - SYS_MODULE
   - SYS_RAWIO
 options:
-  address: "0.0.1"
-  client_address: "0.0.2:8"
+  address: "0.2.35"
+  client_address: "0.2.36:8"
   interface: usb
   device: ""
   log_error_level: warning
